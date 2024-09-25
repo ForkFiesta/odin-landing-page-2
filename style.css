@@ -25,14 +25,69 @@ Quote text
     font-family: Roboto, sans-serif;
 }
 
-a {
-    text-decoration: none;
+header {
+    background-color:#1F2937;
+    padding:48px;
+
+}
+
+.motivational-quote {
+    background-color: #E5E7EB;
 }
 
 ul {
     list-style: none;
 }
 
-h1 {
+a {
+    text-decoration: none;
+    color:#E5E7EB;
+}
+
+header .logo{
+    color: #F9FAF8;
+    font-size: 24px;
+}
+
+.hero-main {
+    font-size: 48px;
+    color:#F9FAF8;
+    font-weight: 900;
+}
+
+.hero-left p {
+    font-size: 18px;
+    color: #E5E7EB;
 
 }
+
+.sign-up-button {
+    background-color: #3882F6;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.info-title {
+    font-size: 36px;
+    color:#1F2937;
+}
+
+.quote {
+    font-style: italic;
+    font-size: 36px;
+    color: #1F2937
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
