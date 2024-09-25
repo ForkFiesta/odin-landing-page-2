@@ -154,7 +154,7 @@ header .logo{
     margin-top: 20px;
     flex-wrap: wrap;
     flex: 1 0 400px;
-    gap:5px;
+    gap:25px;
     
     
 }
@@ -182,6 +182,7 @@ header .logo{
 .description-text{
     text-align: center;
     font-size: 18px;
+    max-width: 200px;
 }
 
 .motivational-quote {
