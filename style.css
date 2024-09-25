@@ -133,6 +133,10 @@ header .logo{
     border-radius: 8px;
 }
 
+.information {
+    padding:0 48px 0 48px;
+}
+
 .information-container{
     display: flex;
     flex-direction: column;
@@ -148,6 +152,11 @@ header .logo{
     justify-content: center;
     align-items: center;
     margin-top: 20px;
+    flex-wrap: wrap;
+    flex: 1 0 400px;
+    gap:5px;
+    
+    
 }
 
 .info-pic {
@@ -165,6 +174,8 @@ header .logo{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    max-width: 200px;
+    gap:5px
     
 }
 
